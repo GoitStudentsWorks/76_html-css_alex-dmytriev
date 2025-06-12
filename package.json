@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/green-dream/",
+    "build": "vite build --base=/76_html-css_alex-dmytriev/",
     "preview": "vite preview"
   },
   "devDependencies": {
